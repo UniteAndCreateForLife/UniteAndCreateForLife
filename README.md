@@ -18,7 +18,7 @@ We build **HAL SUPREME**: an evidence-driven AI engineering and multimodal produ
 
 A read-only inventory on 2026-09-24 verified **125 callable MCP methods** and **209 available capabilities** across AI generation and production tooling. The public integration discovers current schemas at runtime, keeps credentials out of RPC bodies and Git, and requires explicit review before generation or spend.
 
-[Read the case study](https://github.com/UniteAndCreateForLife/HAL_SUPREME/blob/main/case-studies/LIVEPEER_CHATGPT_MCP_2026-09-24.md) · [Inspect the plugin source](https://github.com/UniteAndCreateForLife/HAL_SUPREME/tree/main/plugins/livepeer-creative-mcp) · [Open the machine receipt](https://github.com/UniteAndCreateForLife/HAL_SUPREME/blob/main/evidence/portfolio/livepeer_chatgpt_mcp_2026-09-24.json)
+[Read the case study](https://github.com/UniteAndCreateForLife/HAL_SUPREME/blob/main/case-studies/LIVEPEER_CHATGPT_MCP_2026-09-24.md) · [Download v0.1.0](https://github.com/UniteAndCreateForLife/HAL_SUPREME/releases/tag/livepeer-creative-mcp-v0.1.0) · [Inspect the plugin source](https://github.com/UniteAndCreateForLife/HAL_SUPREME/tree/main/plugins/livepeer-creative-mcp) · [Open the machine receipt](https://github.com/UniteAndCreateForLife/HAL_SUPREME/blob/main/evidence/portfolio/livepeer_chatgpt_mcp_2026-09-24.json)
 
 ### HAL Campus Evidence Desk
 
