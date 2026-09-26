@@ -4,6 +4,16 @@ We build **HAL SUPREME**: an evidence-driven AI engineering and multimodal produ
 
 [![Public Portfolio Evidence](https://github.com/UniteAndCreateForLife/HAL_SUPREME/actions/workflows/public-portfolio.yml/badge.svg)](https://github.com/UniteAndCreateForLife/HAL_SUPREME/actions/workflows/public-portfolio.yml)
 
+## New this week
+
+- **[prt-check](https://github.com/UniteAndCreateForLife/prt-check)** is a free check for GitHub's 2026 `pull_request_target` changes.
+  - Since July 20, `actions/checkout` refuses fork checkouts in privileged workflows.
+  - From Nov 2, the trigger is blocked on public repositories that have no Actions policy allowing it.
+  - It runs as one command or one Action step, and gives the line to fix.
+  - [Report: what breaks in the 1,000 most-starred repositories](https://github.com/UniteAndCreateForLife/prt-check/blob/main/REPORT.md).
+- **[Verified fix](https://github.com/UniteAndCreateForLife/HAL_SUPREME/blob/main/docs/WORK_WITH_HAL.md#fixed-price-offer-verified-fix)** is one sandbox-verified pull request for one GitHub issue, and you pay only if you merge. So far it has 4 merged PRs, each verified on a clean checkout: [#49](https://github.com/UniteAndCreateForLife/HAL_SUPREME/pull/49), [#50](https://github.com/UniteAndCreateForLife/HAL_SUPREME/pull/50), [OPI #9](https://github.com/UniteAndCreateForLife/HAL_OPEN_PUBLIC_INTEREST/pull/9), [OPI #10](https://github.com/UniteAndCreateForLife/HAL_OPEN_PUBLIC_INTEREST/pull/10).
+- **[Bait for AI coding agents](https://github.com/UniteAndCreateForLife/HAL_SUPREME/blob/main/case-studies/AI_AGENT_BOUNTY_HONEYPOT_GUARD_2026-09-24.md)**: bounty repositories that ask agents to paste their system prompt, plus the open detector that caught 183 of 184 such issues with no false positives on 14 widely used repositories. [Try it in the browser](https://huggingface.co/spaces/uniteandcreateforlife/agent-bounty-guard).
+
 ## Start here
 
 - **[Public engineering portfolio](https://github.com/UniteAndCreateForLife/HAL_SUPREME/blob/main/PORTFOLIO.md)** — selected work, capabilities, and evidence links
